@@ -1,0 +1,46 @@
+body {
+	background-image:url("../images/image5.png");
+}
+
+#instructions {
+    background-color: lavender;
+	width: 20%;
+	margin: 20px;
+   
+}
+
+#randomNumDiv{
+    background-color: greenyellow;
+    width: 15%;
+    height: 15%;
+
+}
+
+#randomNum, #score {
+    background-color: greenyellow;
+    width: 45px;
+    height: 45px;
+}
+
+#winLoss {
+    background-color: greenyellow;
+    width: 15%;
+    height: 15%;
+
+}
+
+#crystals {
+    background-color: skyblue;
+    width: 50%;
+    height: 20%;
+}
+
+#totalScore {
+    background-color: greenyellow;
+    width: 15%;
+    height: 10%;
+}
+
+#winLoss, #randomNumDiv, #totalScore, #crystals, #instructions {
+    border: 2px solid white;
+}
