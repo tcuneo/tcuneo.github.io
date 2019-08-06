@@ -1,1 +1,1 @@
-This is Taylor Cuneo's Portfolio...Currently a work in progress
+Taylor Cuneo's Portfolio...Always a work in progress :)
